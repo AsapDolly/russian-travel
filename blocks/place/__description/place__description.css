@@ -1,0 +1,7 @@
+.place__description {
+	grid-area: description;
+	max-width: 484px;
+	display: flex;
+	flex-direction: column;
+	gap: 24px;
+}
